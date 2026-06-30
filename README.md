@@ -1,6 +1,6 @@
 # Hi 👋, I'm Liyaquatali Patel
 
-## 🎓 Applied Computing Graduate (Expected First Class / 2:1)
+## 🎓🎓 BSc (Hons) Applied Computing Graduate | Final Year: 80.30% | De Montfort University
 
 I am an Applied Computing graduate from De Montfort University with a passion for Artificial Intelligence, Data Analytics, Software Development and Information Security.
 
