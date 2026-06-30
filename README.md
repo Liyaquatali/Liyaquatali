@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi 👋, I'm Liyaquatali Patel
 
-<!--
-**Liyaquatali/Liyaquatali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Applied Computing Graduate (Expected First Class / 2:1)
 
-Here are some ideas to get you started:
+I am an Applied Computing graduate from De Montfort University with a passion for Artificial Intelligence, Data Analytics, Software Development and Information Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical software solutions that solve real-world problems while continuously learning new technologies.
+
+---
+
+## 🚀 Featured Project
+
+### Multi-Chatbot Answer Aggregator with Consensus Synthesis
+
+An AI-powered application that compares responses from multiple Large Language Models (LLMs) including LLaMA 3, Mistral and Phi-3 to generate a combined consensus summary that helps users make better decisions.
+
+### Features
+
+- 🤖 Multiple AI Model Comparison
+- 🧠 Consensus Summary Generation
+- 🔍 Thinking Analysis
+- 🔒 Sensitive Data Masking
+- 💻 Local AI Deployment using Ollama
+- 📊 Usability Evaluation
+
+---
+
+## 💻 Technical Skills
+
+- Python
+- SQL
+- Database Design
+- REST APIs
+- Artificial Intelligence
+- Machine Learning
+- Streamlit
+- HTML
+- CSS
+- JavaScript
+- Information Security
+- Business Intelligence
+
+---
+
+## 🎯 Currently Learning
+
+- Power BI
+- Git & GitHub
+- Cloud Technologies
+- Advanced Python
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/liyaquatali-patel-6a6148288
+
+📍 Leicester, United Kingdom
