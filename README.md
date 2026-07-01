@@ -1,10 +1,11 @@
-# Hi 👋, I'm Liyaquatali Patel
+## 👋 Hi, I'm Liyaquatali Patel
 
-## 🎓🎓 BSc (Hons) Applied Computing Graduate | Final Year: 80.30% | De Montfort University
+🎓 **BSc (Hons) Applied Computing Graduate**  
+**De Montfort University | Final Year Average: 80.30%**
 
-I recently graduated with a BSc (Hons) in Applied Computing from De Montfort University, achieving a final-year average of 80.30%.
+I recently graduated with a BSc (Hons) in Applied Computing from De Montfort University. My interests include Artificial Intelligence, Software Engineering, Machine Learning, Data Analytics and Information Security.
 
-My interests include Artificial Intelligence, Software Engineering, Machine Learning, Data Analytics and Information Security. I enjoy designing and developing practical software solutions that solve real-world problems while continuously improving my technical skills.
+I enjoy designing and developing practical software solutions that solve real-world problems while continuously improving my technical skills.
 
 ---
 
