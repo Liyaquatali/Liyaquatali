@@ -48,21 +48,15 @@ An AI-powered application that compares responses from multiple Large Language M
 
 
 ---
+## 📂 Academic Projects
 
-## 🎯 Academic Projects
-
-
-Multi-Chatbot Answer Aggregator with Consensus Synthesis
-
-Rental Price Prediction using Machine Learning
-
-Online Shop Web Application (ASP.NET MVC)
-
-Course Enrolment System
-
-Digital Art Marketplace
-
-Enterprise Network Design
+- Multi-Chatbot Answer Aggregator with Consensus Synthesis
+- Rental Price Prediction Using Machine Learning
+- Online Shop Web Application (ASP.NET MVC)
+- Course Enrolment System
+- Digital Art Marketplace
+- Banking Database Management System
+- Enterprise Network Design
 ---
 
 ## 📫 Professional Links
