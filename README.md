@@ -2,13 +2,13 @@
 
 ## 🎓🎓 BSc (Hons) Applied Computing Graduate | Final Year: 80.30% | De Montfort University
 
-I am an Applied Computing graduate from De Montfort University with a passion for Artificial Intelligence, Data Analytics, Software Development and Information Security.
+I recently graduated with a BSc (Hons) in Applied Computing from De Montfort University, achieving a final-year average of 80.30%.
 
-I enjoy building practical software solutions that solve real-world problems while continuously learning new technologies.
+My interests include Artificial Intelligence, Software Engineering, Machine Learning, Data Analytics and Information Security. I enjoy designing and developing practical software solutions that solve real-world problems while continuously improving my technical skills.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### Multi-Chatbot Answer Aggregator with Consensus Synthesis
 
@@ -25,7 +25,7 @@ An AI-powered application that compares responses from multiple Large Language M
 
 ---
 
-## 💻 Technical Skills
+## 💻 Core Technical Skills
 
 - Python
 - SQL
@@ -38,20 +38,33 @@ An AI-powered application that compares responses from multiple Large Language M
 - CSS
 - JavaScript
 - Information Security
-- Business Intelligence
+- Streamlit
+- ASP.NET MVC
+- SQL Server
+- MySQL
+- MongoDB
+- Entity Framework Core
+
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Academic Projects
 
-- Power BI
-- Git & GitHub
-- Cloud Technologies
-- Advanced Python
 
+Multi-Chatbot Answer Aggregator with Consensus Synthesis
+
+Rental Price Prediction using Machine Learning
+
+Online Shop Web Application (ASP.NET MVC)
+
+Course Enrolment System
+
+Digital Art Marketplace
+
+Enterprise Network Design
 ---
 
-## 📫 Connect With Me
+## 📫 Professional Links
 
 - LinkedIn: www.linkedin.com/in/liyaquatali-patel-6a6148288
 
